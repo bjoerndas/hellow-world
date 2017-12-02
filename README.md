@@ -10,4 +10,5 @@ git clone reponame.git
 2. git commit -m "insert message here"
 3. git push (origin master)
 
-some changes 
+some changes
+ new branch
